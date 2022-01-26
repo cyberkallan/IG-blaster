@@ -53,3 +53,4 @@ python3 -m pip install requests
  - [more tools](https://denotech.in)
  - [github](https://GitHub.com/cyberkallan)
 
+![PayPal donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://pages.razorpay.com/pl_IoVqBBTiH6YTaS/view)
