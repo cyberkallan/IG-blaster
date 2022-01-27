@@ -19,7 +19,7 @@
 
 IF you want to shutdown somone instagram account remotely. This tool will help you.
 
-## what you need for using this tool
+## what you need to use this tool?!
 
 •Proxys
 •fake ig accounts
