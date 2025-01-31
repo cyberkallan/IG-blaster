@@ -17,7 +17,7 @@
 
 [Education purpose only](https://Hackaro.com)
 
-IF you want to shutdown somone instagram account remotely. This tool will help you.
+
 
 ## what you need to use this tool?!
 
